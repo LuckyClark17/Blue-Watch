@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlueGoal
+  - Ball
+  - RedGoalie
+  - BlueGoalie
+  - BlueForward
+  - BlueDefender
+  - BlueMidFielder
+  - RedForward
+  - RedDefender
+  - RedMidFielder
+  - AudienceFloor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ball
+  - Water
+  - UI
+  - Player
+  - Red Team
+  - Blue Team
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

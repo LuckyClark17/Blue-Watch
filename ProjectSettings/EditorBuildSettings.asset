@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/NON-IMPORTANT/scenes/MenuScene.unity
+    guid: cce18f18efbd5df40adf8037bdb0457d
+  - enabled: 1
+    path: Assets/Merged/MERGED SCENE.unity
+    guid: 6c16dd54c29a94c4da7d1489b8c01465
+  m_configObjects: {}
